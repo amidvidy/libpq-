@@ -1,3 +1,7 @@
+Note: THIS IS NOT THE OFFICIAL LIBPQXX REPOSITORY. I am just hosting this here 
+for convenience as GitHub's UI is much better than SourceForge's.
+
+
 Introduction
 
 Welcome to libpqxx, the C++ API to the PostgreSQL database management system.
